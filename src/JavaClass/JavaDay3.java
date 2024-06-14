@@ -93,11 +93,11 @@ public class JavaDay3 {
 		
 	//-------------------------- Do	While -----------------------
 
-//		int a=sc.nextInt();
-//		do {
-//			System.out.println(a+" ");
-//			a--;
-//		}while(a!=0);
+		int a=sc.nextInt();
+		do {
+			System.out.println(a+" ");
+			a--;
+		}while(a!=0);
 	
 	//-------------------------- 
 		
