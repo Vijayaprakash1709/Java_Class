@@ -74,8 +74,13 @@ public class JavaDay16 {
 			else {
 			int count=1;
 			while(count<pos-1) {
+				if(curr.next==null) {
+					System.out.println("Invalid Position Entered");
+					break;
+				}
 				curr=curr.next;
 				count++;
+				
 			}
 			newNode.next=curr.next;
 			curr.next=newNode;
