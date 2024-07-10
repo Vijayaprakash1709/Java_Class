@@ -59,6 +59,17 @@ import java.util.*;
 // 			head=newNode;
 // 		}
 // 	}
+
+//swap adjacent elements in singly linked list
+//     public void swapAdjacent(){
+//         Node curr=head;
+//         while(curr!=null && curr.next!=null){
+//             int temp=curr.data;
+//             curr.data=curr.next.data;
+//             curr.next.data=temp;
+//             curr=curr.next.next;
+//         }
+//     }
 	
 // 	public void insertNth(int data,int pos) {
 // 		Node newNode=new Node(data);
