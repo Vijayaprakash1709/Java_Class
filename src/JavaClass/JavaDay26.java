@@ -84,7 +84,9 @@ public class JavaDay26 {
     s2.add(3);
     s2.add(55);
     System.out.println(s2);
-
+    for(int i:s2){
+    System.out.print(i+" ");
+    }
     
 }
 
