@@ -4,8 +4,6 @@ public class JavaDay1 {
 	int n=10;
 	public static void main(String args[]) {
          int a=123456789;
-
-		///Demo
 //         char c='A';
 //         float f=10.5f;
 //         int b=(int)10.5;
